@@ -6,3 +6,4 @@
 *.lib
 Debug/
 Release/
+*.user
