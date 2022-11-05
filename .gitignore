@@ -1,12 +1,9 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
 
-# Compiled Dynamic libraries
-*.so
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+/.vs
+*.lib
+Debug/
+Release/
+*.user
